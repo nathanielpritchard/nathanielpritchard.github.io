@@ -7,7 +7,7 @@ date: 2025-06-29
 venue: 
 paperurl: 
 preprinturl: https://arxiv.org/abs/2506.16457
-citation: 'Patel, V., Maldonado, D. A., Melnichenko, M., Pritchard, N., Rao, V., Rebrova, E., \& Sankararaman, S. (2025). Scientific Applications Leveraging Randomized Linear Algebra. arXiv preprint arXiv:2506.16457.'
+citation: 'Patel, V., Maldonado, D. A., Melnichenko, M., Pritchard, N., Rao, V., Rebrova, E., & Sankararaman, S. (2025). Scientific Applications Leveraging Randomized Linear Algebra. arXiv preprint arXiv:2506.16457.'
 note: 
 ---
 <b> Abstract </b>:
